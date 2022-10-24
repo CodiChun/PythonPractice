@@ -1,6 +1,8 @@
 from re import A
 import string
 
+# Practice using nested dictionary to parse data.
+
 input = "date,process,host,log,bytes\n20200206,cme_trader_2,cme0001,0345-cme_trader_2.log.gz,15400000\n20200206,phlx_trader_1,phlx0001,0651-phlx_trader_1.log.gz,14100000\n20200206,phlx_trader_2,phlx0001,0645-phlx_trader_2.log.gz,13800000\n20200207,cme_trader_2,cme0001,0345-cme_trader_2.log.gz,15800000\n20200207,cme_trader_3,cme0001,0345-cme_trader_3.log.gz,14200000\n20200207,phlx_trader_1,phlx0001,0651-phlx_trader_1.log.gz,24100000"
 
 
